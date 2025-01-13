@@ -1,0 +1,23 @@
+.extrasFooterMain {
+    display: flex;
+    color: #eee;
+    padding: 20px 90px;
+}
+.extrasFooterHead {
+    color: #fff;
+    text-align: center;
+}
+.extrasFooterHeader {
+    color: #fff;
+}
+.footerServices {
+    /* display: flex; */
+}
+.footerHeadDescription {
+    /* width: 70%; */
+    margin: 0 200px 20px 200px;
+    /* margin-bottom: 20px; */
+}
+.footerAddress {
+    color: #fff;
+}
